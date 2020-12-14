@@ -4,10 +4,13 @@
 ## Profiles
 
 ### Courtney McCormick
-![Image](/docs/images/portfolio_image)
+![Image](/docs/images/portfolio_image.jpg)
 
 ### Nicola McFadden
-![Image](/docs/images/nicola_image)
+##### About Me
+
+
+![Image](/docs/images/nicola_image.jpg)
 
 ```markdown
 Syntax highlighted code block
