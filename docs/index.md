@@ -1,7 +1,7 @@
 # Emerging Web Tech Portfolio Blog
 
 ## Courtney McCormick
-![Image](images/portfolio_image.jpg)
+![Image](images/courtney-image.png)
 #### About Me
 Courtney is in her first year of Interactive Media Design at Durham College. She has a special interest in digital animation as it relates to interactive media, and finds a lot of her inspiration in nature. Courtney previously completed a diploma in Advertising and Marketing Communications from Durham College, and hopes to continue to expand her skill set. In her spare time, she enjoys watching movies, playing with her cats, and eating too much popcorn. 
 #### Contact Info
