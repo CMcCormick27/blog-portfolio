@@ -7,10 +7,11 @@
 ![Image](images/portfolio_image.jpg)
 
 ### Nicola McFadden
+![Nicola McFadden](images/nicola_image.jpg)
 ##### About Me
 I'm a first year Interactive Media Ddesign Student at Durham College.
-
-![Nicola McFadden](images/nicola_image.jpg)
+##### Contact Info
+Email: [nicola.mcfadden@dcmail.ca](mailto:nicola.mcfadden@dcmail.ca)
 
 ```markdown
 Syntax highlighted code block
