@@ -4,13 +4,13 @@
 ## Profiles
 
 ### Courtney McCormick
-![Image](/images/portfolio_image.jpg)
+![Image](images/portfolio_image.jpg)
 
 ### Nicola McFadden
 ##### About Me
+I'm a first year Interactive Media Ddesign Student at Durham College.
 
-
-![Nicola McFadden](/images/nicola_image.jpg)
+![Nicola McFadden](images/nicola_image.jpg)
 
 ```markdown
 Syntax highlighted code block
