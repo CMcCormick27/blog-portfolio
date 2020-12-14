@@ -7,7 +7,7 @@
 ![Image](images/portfolio_image.jpg)
 
 ### Nicola McFadden
-![Nicola McFadden](images\nicola_image.jpg)
+![Nicola McFadden](images/nicola image.jpg)
 ##### About Me
 Nicola is a first year Interactive Media Design student at Durham College. She chose this degree for her love of all things media and design and hopes to pursue a fulfilling career in the industry. Previously, Nicola studied engineering at school, but after a long grueling process, decided that career wasn't for her. In her spare time, Nicola likes to draw, bake, and play guitar. She loves Harry Potter (not J.K. Rowling), anime, video games, books, chocolate, and chocolate. Did I say chocolate?
 ##### Contact Info
