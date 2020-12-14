@@ -7,8 +7,8 @@ Courtney is in her first year of Interactive Media Design at Durham College. She
 #### Contact Info
 Email: [courtney.mccormick@dcmail.ca] (mailto:courtney.mccormick@dcmail.ca)
 
-
-
+<br>
+<br>
 
 ## Nicola McFadden
 ![Nicola McFadden](images/nicola-image.png)
