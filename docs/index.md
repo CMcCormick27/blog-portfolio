@@ -1,5 +1,3 @@
-# Meet the Team
-<br>
 ## Courtney McCormick
 ![Image](images/courtney-image.png)
 #### About Me
