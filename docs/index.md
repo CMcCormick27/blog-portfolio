@@ -1,4 +1,4 @@
-# Meet the Team
+# Emerging Web Tech Portfolio Blog
 <br>
 ## Courtney McCormick
 ![Image](images/courtney-image.png)
