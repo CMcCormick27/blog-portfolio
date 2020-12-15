@@ -16,3 +16,4 @@ Nicola is a first year Interactive Media Design student at Durham College. She c
 #### Contact Info
 Email: [nicola.mcfadden@dcmail.ca](mailto:nicola.mcfadden@dcmail.ca)
 LinkedIn: [Nicola McFadden](https://www.linkedin.com/in/nicola-mcfadden-meng-86698189/)
+<br>
